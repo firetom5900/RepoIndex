@@ -20,7 +20,6 @@ I'm often asked why I use github and git.davewentzel.com (which is gitlab).  Git
 
 ## Demos, Workshops, Hackathons, Presentations
 
-
 |Repo Name|Path|Alternate Path|Description|
 |---|---|---|---|
 |Data Engineering with Databricks|https://git.davewentzel.com/workshops/data-engineering||This workshop covers almost every topic imaginable around data lakes and databricks.|
