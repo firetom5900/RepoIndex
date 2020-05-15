@@ -26,6 +26,7 @@ I'm often asked why I use github and git.davewentzel.com (which is gitlab).  Git
 |MLOps-E2E Workshop|https://github.com/davew-msft/MLOps-E2E|https://git.davewentzel.com/demos/MLOps-E2E|MLOps 1-2 day workshop using Jupyter, Azure ML Service, Azure DevOps, and Databricks. |
 |Azure App Migration Workshop|https://github.com/davew-msft/2019AzureMigrateYourApps|https://git.davewentzel.com/workshops/migrateyourapps|A 1 day hackathon to migrate a full-stack app to Azure|
 |Azure Data Factory Workshop|https://git.davewentzel.com/workshops/azure-data-factory|||
+|Starburst on AKS|https://git.davewentzel.com/demos/starburst-aks-demo|https://github.com/davew-msft/starburst-aks-demo|A quick demo of Starburst on AKS|
 |SQL Server in Containers|https://git.davewentzel.com/demos/sqlcontainers||Workshop/demo running SQL Server in docker containers|
 |AI Envisioning Workshop|https://git.davewentzel.com/workshops/ai-envisioning||A workshop for executives and IT to create a transformative AI strategy|
 |Azure Data Platform Workshop|https://github.com/davew-msft/AzDataPlat|https://git.davewentzel.com/demos/adpe2e|A 1 day hands-on workshop that covers A LOT of the Azure Data Platform.|
