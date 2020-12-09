@@ -15,6 +15,7 @@ I'm often asked why I use github and git.davewentzel.com (which is gitlab).  Git
 |dotfiles|https://git.davewentzel.com/pub/dotfiles||Developers often share their dotfiles. This repo includes all of my scripts to create a new workstation, whether xfce4, Windows, or Mac.  I also have a bunch of my common code snippets.|
 |SQL-to-EventHubs|https://git.davewentzel.com/demos/sql2eh||Sends all SQL Server data changes to Event Hubs in near real-time.|
 |DockDoop|https://git.davewentzel.com/demos/dockdoop||Running hadoop in Docker containers|
+|How to Create a Point-to-Site (P2S) VPN to Azure, QUICKLY|https://github.com/davew-msft/azure-P2S-vpn-automation||Azure VPN documentation is not for the feint of heart.  This script will make it far more automated, fast, and less confusing|
 
 
 
