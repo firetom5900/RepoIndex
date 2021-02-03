@@ -23,6 +23,7 @@ I'm often asked why I use github and git.davewentzel.com (which is gitlab).  Git
 
 |Repo Name|Path|Alternate Path|Description|
 |---|---|---|---|
+|Thinking Like a Data Scientist|https://github.com/davew-msft/data-science-thinking|https://git.davewentzel.com/workshops/data-science-thinking|Data scientists do a lot more than ML algorithms.  In this 1 day workshop we'll look at how any company, business person, or technologist can do more by thinking about business problems and data differently.  There's something for business leaders and technologists in this workshop.  |
 |Blockchain Hackathon|https://github.com/davew-msft/blockchain-hackathon|https://git.davewentzel.com/workshops/blockchain-hackathon|A one day Ideation and Hackathon.  Learn about blockchain by understanding good use cases.  Then we get a local dev environment up and running and we create a Smart Contract dapps based on a top-of-mind use case we will ideate on.|
 |Data Engineering with Databricks|https://git.davewentzel.com/workshops/data-engineering||This workshop covers almost every topic imaginable around data lakes and databricks.|
 |MLOps-E2E Workshop|https://github.com/davew-msft/MLOps-E2E|https://git.davewentzel.com/demos/MLOps-E2E|MLOps 1-2 day workshop using Jupyter, Azure ML Service, Azure DevOps, and Databricks. |
