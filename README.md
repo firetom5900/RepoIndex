@@ -28,7 +28,7 @@ I'm often asked why I use github and git.davewentzel.com (which is gitlab).  Git
 |Data Engineering with Databricks|https://git.davewentzel.com/workshops/data-engineering||This workshop covers almost every topic imaginable around data lakes and databricks.|
 |MLOps-E2E Workshop|https://github.com/davew-msft/MLOps-E2E|https://git.davewentzel.com/demos/MLOps-E2E|MLOps 1-2 day workshop using Jupyter, Azure ML Service, Azure DevOps, and Databricks. |
 |Azure App Migration Workshop|https://github.com/davew-msft/2019AzureMigrateYourApps|https://git.davewentzel.com/workshops/migrateyourapps|A 1 day hackathon to migrate a full-stack app to Azure|
-|Synapse Workshop|https://git.davewentzel.com/workshops/synapse||Building the Modern Information Factory using Synapse|
+|Synapse Workshop|https://git.davewentzel.com/workshops/synapse|https://github.com/davew-msft/synapse|Building the Modern Information Factory using Synapse|
 |Azure Data Factory Workshop|https://git.davewentzel.com/workshops/azure-data-factory|||
 |Starburst on AKS|https://git.davewentzel.com/demos/starburst-aks-demo|https://github.com/davew-msft/starburst-aks-demo|A quick demo of Starburst on AKS|
 |SQL Server in Containers|https://git.davewentzel.com/demos/sqlcontainers||Workshop/demo running SQL Server in docker containers|
