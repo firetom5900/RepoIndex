@@ -2,10 +2,6 @@
 
 In my role with Microsoft I publish a lot of source code for workshops and hackathons.  I can't keep track of everything.  This repo is a listing of all of my public-facing repos on both github and git.davewentzel.com.  
 
-## Why github and gitlab?
-
-I'm often asked why I use github and git.davewentzel.com (which is gitlab).  Github has only had unlimited private repos since about late 2018.  Using self-hosted gitlab with google apps oauth2 integration was a great way to share code securely with customers when I was consultant.  I've been using gitlab since about 2011 when I needed a pragmatic way to learn Ruby.  Since then I've been a contributor to gitlab.  
-
 
 ## Public Source Code
 
@@ -16,6 +12,7 @@ I'm often asked why I use github and git.davewentzel.com (which is gitlab).  Git
 |SQL-to-EventHubs|https://git.davewentzel.com/demos/sql2eh||Sends all SQL Server data changes to Event Hubs in near real-time.|
 |DockDoop|https://git.davewentzel.com/demos/dockdoop||Running hadoop in Docker containers|
 |How to Create a Point-to-Site (P2S) VPN to Azure, QUICKLY|https://github.com/davew-msft/azure-P2S-vpn-automation||Azure VPN documentation is not for the feint of heart.  This script will make it far more automated, fast, and less confusing|
+|Logical Data Warehousing with SQL Server Big Data Clusters|https://git.davewentzel.com/pub/AKS-BDC-Setup||This quickly sets up a resource group in Azure with SQL BDC running on AKS and allows "data mesh" scenarios to S3, on-prem/AWS SQL Server, Oracle, etc. |
 
 
 
