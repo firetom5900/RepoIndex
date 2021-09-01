@@ -40,6 +40,7 @@ In my role with Microsoft I publish a lot of source code for workshops and hacka
 |Azure IoT with DevKit|https://git.davewentzel.com/demos/iot||A real-world IoT lab.|
 |MLOps/AIOps Demo|https://git.davewentzel.com/demos/mlops/-/blob/master/README.md|https://git.davewentzel.com/demos/aiops|A demo with working code.|
 |WORKSHOP: Deep Learning, AI, and ML: A Hands-on Hack|https://git.davewentzel.com/demos/datasciencehack|||
+|Deep Learning on AMLS hackathon|https://github.com/davew-msft/dl-hackathon|https://git.davewentzel.com/pub/dl-hackathon||
 |E2E Big Data|https://github.com/davew-msft/E2EBigData|https://git.davewentzel.com/demos/EndtoEndBigData|A 1 day workshop that covers all databricks topics, from data engineering to ML to distributed deep learning. |
 |Self-Service Analytics|https://git.davewentzel.com/pub/selfserviceanalytics||How to build a self-service analytics data lake in Azure.  From Philly Azure DataFest-December 2018|
 |DS4RU|https://git.davewentzel.com/pub/DS4RU||Data Science for the Rest of Us.  What is a data scientist and how can I become one?|
